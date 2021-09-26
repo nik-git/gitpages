@@ -1,7 +1,7 @@
 {
-  "name": "starter-project",
+  "name": "nikhilgupta",
   "version": "0.1.0",
-  "homepage": "https://nik-git.github.io/starter-project/",
+  "homepage": "https://nik-git.github.io/nikhilgupta/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
